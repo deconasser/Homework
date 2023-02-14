@@ -1,0 +1,17 @@
+1. Lệnh trên gán giá trị của biến bool isA với phép kiểm tra biến grade.
+    sai cú pháp, sửa thành (90<=grade && grade<=100)
+2. (3/5)=0=> (double) 0 = 0.
+3. Tràn dữ liệu
+4. Kiểu double làm tròn số chưa tuyệt đối nên biểu thức có giá trị là false.
+5. Bị lỗi biên dịch division by zero.
+6.  Lỗi: "expression must have arithmetic or unscoped enum type"
+    Lỗi: giá trị rác, khi khai báo ở ngoài thì mặc định=0
+7.  0
+    0.75
+    0.75
+    0.75
+8. Trình biên dịch báo biến đã được declare trước đó.
+9. Chỉ tới biến kiểu char
+10. Chỉ tới biến kiểu int
+11. Phép chia 5/9 cho kết quả 0.
+12. In ra "Here"
